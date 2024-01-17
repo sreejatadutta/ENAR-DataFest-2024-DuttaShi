@@ -15,4 +15,4 @@ As our codes are reproducible, you do not need to download any data prior to run
 
 *Step 4:* Reproduce [figures and table 1](<ENAR-DataFest_Tables & Graphs.R>) from the report using this R code. 
 
-**Note:** You can read more about our project report by clicking [here](<Is Obesity Associated with the Worsening of Blood Pressure Control_DuttaShi.pdf>) and watch our 5 mins study description using this [link](https://www.youtube.com/watch?v=XAKAy2gXJCE).
+**Note:** You can read more about our project report by clicking [here](<Is Obesity Associated with the Worsening of Blood Pressure Control_DuttaShi.pdf>) and watch our 5 mins study description using this [link](https://www.youtube.com/watch?v=XAKAy2gXJCE). To go through our slide deck, click [here](<ENAR DataFest_DuttaShi.pptx>).
